@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: burlywood;
+    color: #555;
+}
+
+#badadabba{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+#chotadabba{
+    height: 400px;
+    width: 400px;
+    background-color:red;
+
+}
